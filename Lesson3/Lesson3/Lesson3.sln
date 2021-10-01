@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson3_3", "..\Lesson3_3\L
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SeaBattle", "..\SeaBattle\SeaBattle.csproj", "{17F5D700-546D-4877-8B76-47ABFF0E5CBC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Palindrome", "..\Palindrome\Palindrome.csproj", "{DFF23E65-6327-4B1B-82F1-5F964D7C1B34}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{17F5D700-546D-4877-8B76-47ABFF0E5CBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{17F5D700-546D-4877-8B76-47ABFF0E5CBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{17F5D700-546D-4877-8B76-47ABFF0E5CBC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DFF23E65-6327-4B1B-82F1-5F964D7C1B34}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFF23E65-6327-4B1B-82F1-5F964D7C1B34}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFF23E65-6327-4B1B-82F1-5F964D7C1B34}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFF23E65-6327-4B1B-82F1-5F964D7C1B34}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
